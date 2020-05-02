@@ -1,0 +1,18 @@
+# Sidebar navigation
+
+- label: 'Introduction'
+  link: '/'
+- label: Blackcoin Today
+  items:
+    - label: 'PoSv3'
+      link: '/blackcoin-today/posv3'
+- label: History
+  items:
+    - label: 'Blackcoin Launch'
+      link: '/history/blackcoin-launch'
+    - label: 'PoSv2'
+      link: '/history/posv2'
+- label: Usage
+  items:
+    - label: 'Creating docs'
+      link: '/usage/creating-docs'
