@@ -18,8 +18,8 @@ module.exports = {
       options: {
         configPath: `sidebar`,
         docsPath: `wiki`,
-        githubUrl: `https://github.com/danielclough`,
-        baseDir: `blackcoinNL-wiki`,
+        githubUrl: `https://github.com/danielclough/wikiBlackcoinNL`,
+        baseDir: ``,
       },
     },
     {
