@@ -18,8 +18,8 @@ module.exports = {
       options: {
         configPath: `sidebar`,
         docsPath: `wiki`,
-        githubUrl: `https://github.com/danielclough/blackcoinNL-wiki`,
-        baseDir: `examples/gatsby-theme-docs`,
+        githubUrl: `https://github.com/danielclough`,
+        baseDir: `blackcoinNL-wiki`,
       },
     },
     {
