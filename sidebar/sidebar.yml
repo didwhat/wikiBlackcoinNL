@@ -3,16 +3,16 @@
 - label: 'Introduction'
   link: '/'
 - label: Blackcoin Today
+  link: '/overview'
   items:
     - label: 'PoSv3'
       link: '/blackcoin-today/posv3'
 - label: History
+  link: '/history/history'
   items:
-    - label: 'Blackcoin Launch'
-      link: '/history/blackcoin-launch'
     - label: 'PoSv2'
       link: '/history/posv2'
-- label: Usage
+- label: Wiki Docs
   items:
     - label: 'Creating docs'
-      link: '/usage/creating-docs'
+      link: '/wiki-docs/creating-docs'
