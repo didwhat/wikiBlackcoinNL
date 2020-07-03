@@ -3,13 +3,17 @@
 - label: 'Introduction'
   link: '/'
 - label: Blackcoin Today
-  link: '/overview'
   items:
+    - label: 'Overview'
+      link: '/blackcoin-today/overview'
+    - label: 'Services'
+      link: '/blackcoin-today/services'
     - label: 'PoSv3'
       link: '/blackcoin-today/posv3'
 - label: History
-  link: '/history/history'
   items:
+    - label: 'Overview'
+      link: '/history/history'
     - label: 'PoSv2'
       link: '/history/posv2'
 - label: Wiki Docs
