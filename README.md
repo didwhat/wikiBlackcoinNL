@@ -59,27 +59,27 @@ Made with 💜 by Rocketseat :wave: [check our community!](https://discordapp.co
 # Want to buy **Blackcoin?**
 ### Follow these easy steps
 
-![](https://ipfs.io/ipfs/QmWhuCW7N9FZK7r5q2ezKg42zSPLC21DLaZNmFbUg6UpSr?filename=buyblk1-2.png)
+![](https://preview.redd.it/27rx5xkq20491.png?width=1906&format=png&auto=webp&s=c2f3e4df8bd75e7b62a0700f08600b69952c53fb)
 
 1. Type [www.Bittrex.com](www.Bittrex.com) in the searchbar.
 
 2. Click the [_Log In_]() button in the upper righthand corner
 
-![](https://ipfs.io/ipfs/QmT9ckx6m95bGu2fpd37YaF2J8PPbyFzGwtWHqJ7UBGKKW?filename=blkbuystep3.png)
+![](https://preview.redd.it/tlwxg8xq20491.png?width=1915&format=png&auto=webp&s=2ce91757bfbfeb22efa44cf099a129f16fc1fa0d)
 
 3. Enter your Log In information
 >* If you dont have a bittrex account click [sign up](https://bittrex.com/discover/join?referralCode=XB4-T0Q-0MN)
 >* Fill out *create an account* with your email address and a secure password. 
 >* there is an added referral link that is optional
 
-![](https://ipfs.io/ipfs/QmaP9bd4FoLMtJ8AE8YAfTDvBMVcRjwv3KkPpQpLtz6c46?filename=blkbuy4-5.png)
+![](https://preview.redd.it/o3z8g06r20491.png?width=1899&format=png&auto=webp&s=19458d68f61ed2cfd7ce1548183e195f94d9fac3)
 Make sure you are on the Markets tab which can be verify on the top right side of the webpage.
 
 4. Type **BLK** in the market _search_ bar
 
 5. Click trade **BTC-BLK**
 
-![](https://ipfs.io/ipfs/QmQyNmjuKzgZi8cf7HDU3jfiXU4vUDtukfZVm8TN4eCxnA?filename=blkbuy6-10.png)
+![](https://preview.redd.it/v3nbsjkr20491.png?width=1904&format=png&auto=webp&s=661d16ca005b92349d32f2c32cf18e38864a6205)
 
 6. The fastest and easiest way to buy **Blackcoin** is with a market order. Make sure to click market order before placing your purchase.
 7. Pick the amount of **Bitcoin** you would like to spend on **Blackcoin**
@@ -94,7 +94,7 @@ If you fill out the order information correctly you will recieve two messages in
 #
 Looking to withdraw your **Blackcoin** from **Bittrex**?
 ## Follow these directions and you will be sending your **Blackcoin** in no time.
-![](https://ipfs.io/ipfs/QmZJJNkNagijTkdBEtRuPQxjCDZDQ6dJyj8dyuJPwxwRis?filename=bittrexblkwithdrawl.png)
+![](https://i.redd.it/23a9lrs340491.png)
 1. Go to the **Bittrex** holdings page. Look for **BLK** and click _withdraw_ on the right side of the screen.
 
 2. Fill in _recipient's wallet address with the **Blackcoin** address you intent to send your **BLK** funds.
@@ -112,7 +112,7 @@ Looking to withdraw your **Blackcoin** from **Bittrex**?
 #
 # Want to Wrap your **Blackcoin**?
 ### Follow these simple steps and you will have wrapped-**Blackcoin** on Binance smart chain.
-![](https://ipfs.io/ipfs/QmNed3pcY483MubT7GEJZ5WKTwkZSkeF1NDfERqMzcjodC?filename=wblk%20sevrices%20mask.png)
+![](https://preview.redd.it/ciclp1mt20491.png?width=1870&format=png&auto=webp&s=ec83e432d4e418170eff44d0ad5b8632b127537c)
 1. Type [https://wrapping.services/get/blk/](https://wrapping.services/get/blk) in the search bar.
 
 2. Click your web3(metamask) wallet button usually located in the top righthand corner of your browser.
